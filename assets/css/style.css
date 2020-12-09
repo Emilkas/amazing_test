@@ -265,16 +265,19 @@
     color: #FFFFFF;
 }
 .house-buttons-arenda {
-    width: 48px;
-    height: 46.45px; 
+    width: 52px;
+    height: 46.45px;
+    cursor: pointer;
 }
 .house-buttons-door {
-    width: 48px;
-    height: 46.45px; 
+    width: 52px;
+    height: 46.45px;
+    cursor: pointer;
 }
 .house-buttons-sell {
-    width: 48px;
-    height: 46.45px; 
+    width: 52px;
+    height: 46.45px;
+    cursor: pointer;
 }
 .house-buttons-enter {
     display: flex;
@@ -290,9 +293,8 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 22px;
-    cursor: pointer;
     color: #FFFFFF;
-
+    cursor: pointer;
     background: #0A4DCE;
     border-radius: 2px;
 }
