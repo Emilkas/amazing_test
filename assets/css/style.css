@@ -127,14 +127,11 @@
     align-items: flex-start;
 }
 .house-sklad-info-img {
-    position: fixed;
-    width: 86px;
-    height: 86px;
     margin-top: 18px;
     margin-left: 18px;
 }
 .house-sklad-info-img img{
-     position: fixed;
+    position:absolute;
 }
 .safe-vector-3 {
     left: 59.35%;
