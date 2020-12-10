@@ -2,7 +2,6 @@
 .house-conainer {
     display: grid;
     grid-template-columns: auto 492px 42px;
-    grid-auto-rows: 200px;
     max-width: 1112px;
     height: 610px;
     margin: 152px auto;
