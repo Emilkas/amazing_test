@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
 .house-conainer {
-    display: flex;
-    width: 1112px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 200px;
+    max-width: 1112px;
     height: 610px;
     margin: 152px auto;
     background: rgba(14, 14, 14, 0.9);
